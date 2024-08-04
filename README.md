@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nightteye
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Kali Linux
+
 
 <!---
 Nightteye/Nightteye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
